@@ -1,6 +1,6 @@
 #include <stdio.h>
 
- /**
+/**
  * main - prints sum of even-valued fibonacci numbers under 4,000,000
  * Return: 0 if succesfull
  */
